@@ -1,1 +1,2 @@
 # odin-recipes
+The aim of this project is to practice everything learnt to this point. The website isn't meant to be pretty, but it is a way to practise all the techniques learnt with The Odin Project.
