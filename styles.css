@@ -1,0 +1,21 @@
+body {
+  background-color: black;  
+}
+
+h1 {
+  color: white;
+  font-family: 'Arial', 'Times New Roman', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+ul{
+  color: white;
+}
+
+li{
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+}
